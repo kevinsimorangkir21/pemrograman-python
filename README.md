@@ -1,2 +1,13 @@
-# pemrograman-python
-Pemrograman Bahasa Python 3 &lt;br> Kevin Simorangkir
+
+# PEMROGRAMAN PYTHON BY : KEVIN SIMORANGKIR
+
+## Deskripsi Singkat
+Repositori ini dibuat bertujuan untuk mereview materi yang sudah diajarkan dan mencoba beberapa case
+yang diberikan
+
+<br>
+
+### List Repositories :
+- Operator / Penanda
+- Tipe Data
+- Beberapa Kasus Sederhana
